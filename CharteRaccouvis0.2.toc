@@ -1,0 +1,2 @@
+\select@language {french}
+\contentsline {part}{I\hspace {1em}Les principes directeurs des clubs}{3}

@@ -1,0 +1,265 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}      % un second package
+\usepackage[francais]{babel}
+\usepackage[a4paper, left=3cm, right=3cm, top=3cm, bottom=3cm]{geometry}
+\usepackage{default}
+\usepackage{graphicx}
+
+%opening
+\title{\Huge{Annexes - La Charte du club débat d'épistémologie politique} \LARGE{V0.2.0}}
+\author{Voté à la majorité simple ou supérieure par l'ensemble des membres de tous les clubs}
+%\date{01/04/2016}
+
+\begin{document}
+
+\maketitle
+
+\begin{tabular}{|p{.9\textwidth}|}
+ \hline
+ Cette œuvre est mise à disposition sous licence Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France. Pour voir une copie de cette licence, visitez http://creativecommons.org/licenses/by-nc-nd/3.0/fr/ ou écrivez à Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+ \begin{center}
+ \includegraphics[scale=1]{cc.jpg}
+ \end{center}\\
+ \hline
+\end{tabular}
+\newpage
+\tableofcontents
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Annexes %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Annexes}
+
+\section{Créer son antenne CDEpisPo en dix étapes faciles!}
+\begin{description}
+ \item [Etape 1 :] Trouvez un contact dans le club débat d'épistémologie politique, qui vous servira de soutien ainsi que de taupe. Débusquez aussi quelques camarades intéressés (au moins trois).
+ \item [Etape 2 :] Fournissez vous un exemplaire récent de la charte et lisez le entièrement.
+ \item [Etape 4 :] Connectez vous sur le site. Furetez bien, consultez les forums publics, les vidéos, imprégnez vous de l'esprit, de l'ambiance et des visions et codes du club. Ensuite, créez une candidature en ligne, et faites une demande de création de club. Celà fait, votre demande devra être validée et acceptée et un archiviste, qui vous contactera pour vérifier que vous êtes aptes à créer ce nouveau club.
+ \item [Etape 4.5 :] Participez à une séance du club débat en tant que spectateur.
+ \item [Etape 5 :] Grâce aux conseil de votre tuteur et votre abnégation, la paperasse devrait être réglée rapidement et vos premières séances officieles démarrer promptement! Bon courage, faites preuves de sang froid et de rationnalité quand vous traitez des affaires du club, vous avez désormais le status de TYRAN (Téméraire Yeoman, Représentant vis-à-vis de l'Administration Nationale) dans votre club.
+
+ \item [Etape 6 :] Vous avez créé le club, mais diriger le club d'une main de fer est contraire à ses principes, il vous faut donc rapidement déléguer votre pouvoir. Pour commençer, procédez au vote de votre règlement local, qui contiens toutes les variantes des règles que vous avez choisis de suivre, voir plus (se référer à la section "règlement local"). Si vous le désirez, affichez-le lors de vos réunions pour qu'il soit claire pour tous les membres. 
+ \item [Etape 7 :] Procédez à la première élection de l'Archiviste. Choisissez votre projet de réflexion.
+ \item [Etape 8 :] Pour votre première véritable séance, veillez bien à ce que tous vos membres sachent à quoi s'attendre, et qu'ils soient en mesure de respecter la charte.
+ \item [Etape 9 :] ???
+ \item [Etape 10 :] Profit!!!
+\end{description}
+
+\section{Conventions et nomenclature}
+
+\subsection{Organiser les séances en groupe séparés}
+Lorsque le club fonctionne au delà de l'échelle d'un simple groupe de réflexion, il est nécessaire de trouver un moyen de rester efficace tout en partitionnant le club. Dans le cadre d'un projet de réflexion, chaque cellule ne doit pas dépasser le nombre de dix personnes. Voici donc le genre d'organisation pyramidale qui est conseillée d'adopter alors:
+\paragraph{Discours sur la méthode}
+Il y a en effet plusieurs moyens de procéder au niveau matériel, avant même de décider des règles, classées en deux catégories: Les solutions informatiques et les solutions physiques. Ci-dessous une liste des différents moyens imaginables:
+\begin{itemize}
+
+ \item Informatique :
+ \begin{itemize}
+  \item Utilisation d'un logiciel spécialisé programmé par des membres
+  \item Utilisation d'un logiciel tierce (organisation ou tirage au sort)
+ \end{itemize}
+ 
+ \item Physique :
+ \begin{itemize}
+  \item Tirage au sort planifié par concertation, avec un ordre prédéfini.
+  \item Utilisation d'un objet pour désigner le membre par tirage notemment (ex: faire tourner au centre d'un cercle de membres un stylo, veiller à ce qu'il face environ un tour ou plus avant de s'arrêter).
+  \item Utiliser des feuilles avec des listes de nom pour comptabiliser les membres à la place d'un ordinateur.
+ \end{itemize}
+\end{itemize}
+
+Les différent moyens de réaliser le vote:
+\begin{description}
+ \item [Le vote à main levé] Facile et connu de tous, il a comme désavantage d'empécher l'anonymat et d'être plus délicat pour les propositions avec plus de deux issues.
+ \item [Le vote plurivoque] A chaque proposition possible est attribuée un numéro. Puis ce numéro est tiré au sort.
+\end{description}
+
+\subsection{Différent types de majorités}
+Voici les conventions des noms données aux différends types de majorités qui permettent une plus grande précision et commodité dans l'utilisation du vocabulaire de majorité au sein du club.
+\begin{description}
+ \item [Majorité par division] - 50\%
+ \item [Majorité simple] + de 50\%
+ \item [Majorité supérieure] + 65\%
+ \item [Majorité représentative] + 80\%
+ \item [Majorité absolue] + 95\%
+ \item [Unanimité] 100\%
+\end{description}
+
+\subsection{Les manières officielles de nommer le club}
+\begin{description}
+  \item [Club débat] Tout simplement pour ne pas intimider les élèves et les officiels (personnel enseignant et éducatif par exemple).
+  \item [Club débat d'épistémologie politique] Le nom complet n'est nécessaire qu'en face de ceux qui le désirent où devraient le connaître (comme les médias ou ceux qui peuvent aider à la propagation de nos idées, ou qui sont juste intéressés). Le prononçer plus souvent ne vous donnera pas l'air plus intélligent, du moins pour la plupart des gens que vous pourriez croiser. 
+  \item [CDEpisPo] (prononcez kdépispo)  Court et très officiel. Essayez d'utiliser cette abrévation à chaque fois que vous voulez désigner le club précisément (par exemple par écrit) et que le nom complet ne s'impose pas.
+\end{description}
+
+\section{Patrons et conseils d'organisation}
+
+\subsection{Propositions concernant les votes}
+Les clubs doivent régulièrement procéder à des votes, que ce soit pour les conclusions, les modifications de la charte, l'élection de nouveaux membres ou de toute stratégie qui ne fait pas l'unanimité.
+Premièrement, le vote doit toujours être précédé d'un débat. Ensuite, si le vote est binaire, il est demandé à ceux qui sont d'avis minoritaire de se justifier après que les raisons de la majorité aient été résumées succintement. Si le vote accepte plus de deux issues, il est demandé aux partisans de chacque avis de résumer leurs arguments et de débattre un peu. Enfin est éxécuté le vote qui peut être réalisé de diverses façons décrites ci-dessous.
+
+\subsection{Proposition sur l'organisation d'un texte de conclusion}
+\paragraph{Les conclusions}
+L'Archiviste a comme travail de faire la synthèse des conclusions des différentes séances via la création d'un document succint et sobre qui fait ressortir clairement, selon les principes des clubs, les différents points abordées, les arguments et leurs limites. C'est pour celà que je vous expose ici un standard possible que je vous conseil personellement d'utiliser.
+\paragraph{Organisation hiérarchique}
+Pour soumettre son texte, le postulant doit veiller à hiérarchiser ses propositions en fonction de leurs liens de parenté et de les identifier chacunes par des numéro, de sorte que les membres puissent facilement et sans ambiguités déterminer quelle proposition dépend de quelle autre
+\begin{itemize}
+ \item 1. Chaque proposition doit être préalablement numérotée via des chiffres (arabes: 1,2,3... ou romains: I, II, III...) ou des lettres (min: a,b,c ou maj: A,B,C) suivant cette hiérarchie:
+ \item 2. D'abord les chiffres romains, puis les lettres majuscules, puis minuscules, et enfin les chiffres arabes.
+ \item 3. Chaque proposition doit être développé logiquement selon ses arguments, sous arguments et justifications. [Ju] Ainsi, les différents points pourront être traités méthodiquement. Les différentes proposition doivent posséder une justification. 
+ \item 4. Les différentes parties du sujet, ainsi que leurs propositions sont traités de façon indépendantes. [Ju] Ainsi, l'étude du texte se fait en autant de balayages successifs que nécessaires, en commençant par les proposition les plus haut plaçées dans la hiérarchie, pour finalement terminer par les plus basses, ainsi on s'assure de traiter en premiers les piliers fondamentaux du texte avant de l'analyser plus en profondeur, ce pour une question de méthode et donc d'efficacité.
+ \item 5. En complément des propositions, des textes de justifications, précédés de la balise [Ju] doivent si possible être ajoutés.
+ \item 6. La balise [Rem], pour remarque est une autre balise de pré-paragraphe qui permet au relecteur de demander au club prendre en considération certains points qu'il considère comme incomplets.
+ \item 7. La balise [Prp], pour proposition sert à énoncer un point d'ordre éthique plus qu'empirique sur la vision de l'état vis à vis de certains points précis.
+\end{itemize}
+
+\section{Argumentation et réthorique}
+\subsection{Les pièges d'argumentation de base, les décrypter et se défendre}
+
+\subsubsection {Les grands principe d'analyse de l'argumentation}
+
+\begin{itemize}
+ \item La charge de la preuve
+ \paragraph{}
+ {\scshape Certains des extraits suivants sont tirés entièrement ou en partie du site} http://www.zetetique.fr/index.php/dossiers/288-zetetique-ufologie
+ \paragraph{} 
+ [...] Si tout est possible, tout ne peut pas être : il faut donc démontrer positivement l’existence de ce qui est, puisque démontrer l’inexistence de ce qui n’est pas est impossible. A la base de cette idée figure une logique simple, fondée sur le principe suivant : \textbf{« l’absence de preuve n’est pas preuve de l’absence »}. Pour illustrer ce concept, on rappellera ici un exemple bien connu des zététiciens, celui des corbeaux blancs. En effet, pour prouver que les corbeaux blancs n’existent pas, je devrais parcourir la Terre entière dans ses moindres recoins, et ce simultanément pour m’assurer que l’espiègle volatile albinos ne se soit pas montré ailleurs lorsque j’avais le dos tourné. Pour faire cela, il me faudrait être omnipotent, omniprésent et omniscient, toutes caractéristiques évidemment hors de ma portée. Que je n’aie pas de preuve de l’existence des corbeaux blancs ne signifie pas qu’il n’en existe nulle part. Par conséquent, en pareil cas, il sera infiniment plus simple de démontrer positivement l’existence des corbeaux blancs, en produisant un spécimen de cette espèce par exemple.
+ \subparagraph{La charge de la preuve est à celui qui avance un élément nouveau}
+ De ce raisonnement découle le principe de la charge de preuve : c’est à celui qui affirme l’existence de quelque chose d’en apporter la preuve. Dans le même ordre d’idées, on doit considérer que ce qui n’est pas démontré est inexistant par défaut. Si je partais du principe inverse, en affirmant par exemple, sans preuve, que les corbeaux blancs existent jusqu’à preuve du contraire, je me trouverais rapidement dans une impasse, étant justement dans l’incapacité logique d’apporter la démonstration qu’ils n’existent pas. Or, il est aussi possible qu’il n’y ait pas de preuves de l’existence de tels oiseaux tout simplement… parce qu’ils n’existent pas. Une véritable ouverture d’esprit oblige aussi à tenir compte de cette éventualité ! Dire « les corbeaux blancs n’existent pas jusqu’à preuve du contraire » est donc la seule posture qui englobe toutes les possibilités, y compris l’inexistence pure et simple. Évidemment, ce raisonnement fonctionne aussi en remplaçant « corbeaux blancs » par « visiteurs extraterrestres ». 
+ \paragraph{Réfutbilité}
+ Si, comme on l’a vu, toutes les possibilités sont théoriquement envisageables, elles ne sont en revanche pas toutes égales entre elles. Certaines sont vérifiables – c’est-à-dire qu’elles se basent sur des éléments ou des faits qui nous sont accessibles, ou qui peuvent être reproduits – et d’autres non. Supposons par exemple que deux personnes viennent affirmer l’existence des corbeaux blancs, l’une sans preuves, et l’autre avec un spécimen de l’animal. La première assertion sera invérifiable, donc irréfutable et… irrecevable. Tandis que la seconde, elle, pourra faire l’objet d’une vérification : on pourra par exemple s’assurer que le volatile est bien authentiquement blanc, et non un pauvre corbeau ordinaire repeint par accident ou par malice. Ceci amène immanquablement à évoquer ce qu’on nomme la « réfutabilité » d’une hypothèse. Due au philosophe des sciences britannique d’origine autrichienne Karl Popper, ce critère est un de ceux permettant de déterminer si une hypothèse est scientifique ou non. Celles qui font appel à des éléments invérifiables ou ne pouvant être reproduits ne peuvent être considérées comme scientifiquement solides. [...]
+ 
+ \item Rasoir d'Occam
+ \paragraph{Le rasoir d'Occam}
+ [...] D’autres font appel à plus ou moins de conditions, ou de suppositions préalables, dans leur formulation. Typiquement, l’hypothèse voulant qu’une intelligence extraterrestre soit à l’origine des ovnis en nécessite un grand nombre : « si » il existe une vie ailleurs que sur notre planète, « si » il s’agit d’une vie intelligente, « si » elle a produit une civilisation technologique, « si » celle-ci est parvenue à voyager dans l’espace, « si » elle est contemporaine de la nôtre, « si » elle a trouvé le moyen de vaincre les énormes distances de l’espace interstellaire, « si » elle nous a trouvé dans l’immensité de l’univers… Elle est donc « coûteuse » car elle fait intervenir de nombreuses inconnues. En ce sens, elle va à l’encontre du principe d’économie d’hypothèse – encore appelé « rasoir d’Occam » – qui veut qu’en présence de deux explications, il convient de privilégier la plus simple, celle faisant appel au moins de suppositions, en premier lieu parce qu’elle sera généralement plus facile à vérifier et la plus probable – ce qui ne signifie pas obligatoirement qu’elle est la plus vraie.
+ \paragraph{Curseur de vraisemblance}
+ De ce principe en découle un autre : « une affirmation extraordinaire requiert une preuve [plus qu'ordinaire] ». Cela ne signifie pas qu’un phénomène « paranormal » nécessite obligatoirement une preuve qui serait elle aussi « paranormale » (dans le cas des extraterrestres, une sonde en panne ou un spécimen observables suffiraient), mais plutôt qu’on n’attendra pas de ce genre d’hypothèse le même degré de preuve que d’une autre moins coûteuse. Prenons l’exemple de la « photo surprise » de Bar-sur-Loup (Alpes-Maritimes), prise en 2006 : dans la mesure où l’existence des pigeons est avérée et la présence de ces volatiles à proximité au moment où la photo a été prise l’est également, on ne demandera pas aux tenants de cette explication de la démontrer jusqu’à la moindre plume de l’oiseau. Au contraire, l’hypothèse faisant de « l’objet mystère » [en réalité un pigeon] de la photo un vaisseau extraterrestre devra l’être bien davantage, compte tenu des incertitudes qui l’entourent et de ses implications sur nos connaissances et notre vision de l’univers. On parle aussi de « curseur de vraisemblance  » pour désigner ce principe : plus la vraisemblance (aussi appelée « plausibilité antérieure » par certain sceptiques) d’une affirmation sera faible en regard de nos connaissances actuelles, plus elle devra être étayée pour être acceptée comme vraie.
+ 
+ \item Parenthèse sur le doute en science
+ \paragraph{}
+ Pour autant, peut-on dire qu’armé de ces principes épistémologiques, on pourra aboutir à des connaissances certaines ? Non. En science, on peut toujours douter de quelque chose, à cause de la subjectivité de l’observateur, ou d’un possible défaut d’instrumentation… Objectivité et certitude absolues n’existent pas : la démarche scientifique n’accouche que de conclusions valides seulement jusqu’à preuve du contraire.
+
+ \paragraph{} 
+ Mais si cette objectivité est inaccessible, on peut en revanche s’en approcher. On doit donc s’appliquer à atténuer son contraire – c’est-à-dire la subjectivité – par une méthodologie adéquate, au même titre que dans un protocole expérimental en double aveugle, destiné à réduire la subjectivité de l’expérimentateur dans le recueil et l’interprétation des résultats d’une expérience, et dont la reproductibilité permettra de réduire les risques de biais liés, par exemple, à un défaut d’observation. [...]
+\end{itemize}
+
+\subsubsection {Les tentatives d'attaque}
+\begin{itemize}
+ \item L'homme de paille
+ \paragraph{L'homme de paille}
+ \item L'extrapolation
+ \paragraph{L'extrapolation}
+Quand un adversaire est acculé, il peut arriver qu'il tente de dévier du sujet initial pour vous attaquer là où vos arguments précédents ne s'appliquent plus, en changeaut de contexte. On peut comparer ce genre de malhonêteté intellectuelle à l'homme de paille, sauf que cette fois, c'est vous le complice. J'explique A et B dicutent de la guerre: A - "Je pense que le combat des Kurdes est légitime, ils forment en effet une entité culturelle séparée, etc.. etc" B - "Sauf que les" 
+Autre exemple, dans un autre registre:
+A- "Le fonctionnement de l'esprit humain peut être comprit dans sa totalité." B- "Sauf que le Big Bang, ainsi que les nombres univers restent des mystères pour la science et l'épistémologie. Puisque certaines des composantes de base de l'univers sont inconnues, il est impossible de comprendre le cerveau humain." A - "..."
+    Ce genre de fausse connxion logique permet, sous couvert de traiter un aspect 
+    B incite A à donner un contre argument à sa proposition, car A, s'il s'est laissé entrainer par le subterfuge, pense que s'il n'arrive pas à infirmer les arguments de B, alors sa première proposition sera démontée. Or c'est faux, car B s'est contenter de créer une connexion qui possède l'apparence de la logique entre deux propositions qui n'ont en fait rien à voir, lui permettant de coincer A.
+\end{itemize}
+
+\section{Organisation du site web}
+
+\subsection{A propos de la communication entre clubs}
+Le club d'épistémologie politique aime que chaque club garde une certaine indépendance dans la gestion de ses propres affaires, d'où la grande flexibilité de la présente charte. Cependant, les clubs s'inscrivent aussi dans le cadre d'un projet de réflexion plus large, à portée universelle et politique. C'est pourquoi tous les clubs doivent essayer de garder un contact actif entre eux notamment grâce au site web pour pouvoir s'organiser ensemble et conduire à des projet de réflexion synchronisés ou des rencontres en personne interclub par exemple.
+
+\subsection{Organisation du site web}
+\paragraph{Les menus et leurs pages}
+L'utilisateur tombe par défaut sur la page d'acceuil du site web. Le site propose un menu permettant d'accéder, dans cet ordre, à ces menus:
+\begin{description}
+ \item [Acceuil] Accès à la page d'acceuil
+ \item [Articles] Le portail des publications du club
+ \item [Forum global] Le forum des sujets globaux et des débutants
+ \item [Pétitions] Le portail des pétitions
+ \item [Charte] La charte globale ainsi que le lien vers le git
+ \item [Nous découvrir] Contiens les moyens de nous contacter, des liens vers les créations des membres, la F.A.Q ainsi que les documents concernant a zététique et les vidéos décrivant et vulgarisant certains principes du club.
+ \item [Connection] Se connecter
+ \item [Inscriptions] S'inscrire
+\end{description}
+
+
+La charte définit clairement le fonctionnement et l'apparence du site, de sorte à écarter l'arbitraire des artisans du site des points importants.
+\subsection{Les pétitions}
+Chaque membre peut créer et consulter des pétitions dans le volet << pétitions >> du menu principal du site.
+\subsubsection{Les propriétés des pétition}
+Une pétition est définie par:
+\begin{itemize}
+ \item Une phrase courte qui en donne l'idée générale.
+ \item Un texte qui explique la modification en question, et à quoi elle s'applique précisément (Par exemple s'il s'agit de la charte, préciser le hash de commit)
+ \item Un autre texte qui la justifie.
+ \item Sa ou ses catégories, parmi:
+ \begin{description}
+  \item [Charte\_tete] Modifications de la tête de la charte.
+  \item [Charte] Modification ayant trait aux parties externes de la charte.
+  \item [Site] Proposer une modification quelconque sur le site web.
+  \item [Site] Modification des algorythme su site.
+ \end{description}
+ Ainsi qu'une pécision précédée par << : >>, par exemple << Charte:Modification >> :
+ \begin{description}
+  \item [:Modification\_forme] Proposer une manière plus juste de dire les choses.
+  \item [:Modification] Proposer une modification qui touche au fond, qui change le sens du sujet.
+  \item [:Orthographe\&Grammaire] Correction orthographique ou grammaticale.
+  \item [:Ajout] Proposition d'ajout d'un ou plusieurs articles.
+  \item [:Suppression] La suppression bonne et simple de sections entières.
+  \item [:Algorythme] Traitant de la modifications de parties mathématiques et algorythmiques.
+ \end{description}
+ \item L'historique de ses propres modifications par l'auteur, pour que les signataires soient notifiés de toute modification de la proposition.
+\end{itemize}
+
+\subsubsection{Comment les pétitions sont elles menés à terme}
+Une fois qu'une pétition est créée, elle va passer par 3 phases avant d'être définitivement appliquée ou rejetée
+\begin{enumerate}
+ \item La pétition doit d'abord récolter un nombre suffisant de voix pour pour passer en seconde instance.
+ \item La pétition doit désormais récolter un nombre suffisant de voix pour pour et suffisamment peu de voix contre, sachant que le vote blanc existe. Ce nombre est détaillé pour chaque type de pétition plus bas.
+ \item Une fois validée (elle est tout simplement jetée aux archives si elle est refusée par les membres), un archiviste marqué comme disponible (voir subsection profil) choisis au hasard devra s'acquiter de la tache. S'il ne le fait pas dans un intervale de deux jours, la tâche est dévolue à un autre archiviste suivant le même procédé.
+ \item L'archiviste devra soumettre sa modification à l'ensemble des autres archivistes disponibles en réunion, et il doit enfin soumettre lui même sa modification à un vote sur deux jours en demandant aux membres s'ils jugent que son exécution de la demande était conforme au sujet d'origine de la pétition, la modification devant receuillir au moins la majorité supérieure pour être acceptée.
+\end{enumerate}
+Par défaut, une pétition n'est éligible en seconde instance que si 20\% des membres du club la trouvent importante (la trouver importante ne signifie pas forcément qu'on vote pour elle, mais pour sa pertinence et les questions qu'elle soulève), et est automatiquement archivée au bout de deux semaines d'existence.
+Par défaut, une pétition n'est éligible que si elle rassemble au moins une majorité simple de votes pour et moins de 30\% de votes contre sur au moins 20\% des membres sur trois jours. Ci dessous les exeptions par catégorie:
+\begin{description}
+ \item [Charte\_tete] Pour faire changer la tête de charte, il faut avoir au moins la majorité représentative de voix ainsi que moins de 16\% de voies contre.
+\end{description}
+
+\subsubsection{Comment sont affichés les pétition?}
+\paragraph{Affichage et priorité d'affichage}
+Les pétitions sont affichés sous forme de liste. Chaque pétition contiens les attributs suivants:
+\begin{itemize}
+ \item Une brève description de son sujet
+ \item Le type de la pétition
+ \item Un lien pour en savoir plus
+ \item Un lien pour voter la pétition
+ \item Le nombre de vote pour/contre
+\end{itemize}
+\paragraph{L'algorythme de tri des pétitions}
+Pour éviter que les pétitions ne soient illisible ou noyés dans la masse, le site fourni deux moyens de classer les pétitions:
+\subparagraph{Les critères de recherche}
+A la disposition de l'utilisateur quand il consulte les pétitions dans le panneau pétition (panneau qui n'affiche d'ailleurs qu'un nombre défini de pétition par pages, par défaut 15 mais ce nombre peut être modifié par l'utilisateur). Premièrement, ce panneaux contiens deux boutons, un pour afficher les pétitions en première instance et un autre pour les pétitions en seconde instance. Les deux instances partagent cependant le même type de référencement:
+\subparagraph{L'algorythme de valorisaion automatique}
+Chaque pétition se voit attribuer un certain nombre de points auquels vont s'ajouter au fil du temps des modificateurs qui permetterons de garder l'équilibre entre d'un coté le soucis de visibilié pour les nouvelles proposition ainsi que le privilège pour les grands débats de rester visible plus longtemps. Voici la description des différends critères de modification des pétitions:
+\begin{itemize}
+ \item Premièrement, toute voix ajoutée à la pétition, peu importe son avis, lui fait gagner 1 point.
+ \item Ensuite, les nouvelles pétitions bénéficient d'un modificateur aléatoire du nombre de points qui lui rajoute entre 20\% et 90\% de la moyenne des voix des 40 meilleures pétitions en terme de score total actuellement en lice points à chaque fois qu'on lui demande son nombre de points, ce quota passe à 10\% et 40\% au bout de 24 heures pour finalement disparaitre au bout de trois jours à compter du post du message.
+\end{itemize}
+
+\subsection{Gestion du compte et du profil des membres}
+\paragraph{Cinq types de profil}
+\begin{description}
+ \item [Visiteur] Il peut participer aux forums, mais n'a pas le droit de posséder d'icone et ne peut naturellement pas voter, ce qui permet de le différencier du premier coup d'oeil des membres, en plus du fait que son icone ne soit pas encadré par la bordure de couleur des membres. Ils peuvent juste éditer leur pseudo une fois. Ils peuvent changer leur adresse email. Changer leur mot de passe. Changer leur signature. Il n'est pas possible de créer deux comptes avec le même mail.
+ \item [Membre] Il peut voter, participer à toutes les discussions et possède un cadre de la couleur de son club autour de son icone. Un membre est un visiteur qui a été reconnu comme membre par la majorité représentative des autres membres de son club.
+ \item [Archiviste] En plus de sa fonction de membre, le status d'archiviste est donc attribué par vote. Le rate de ce vote est déterminé par les paramètres originaux entrés dans la charte locale, et ils doivent êtres renseignés sur le site par le tyran avant la première élection de l'archiviste. Pour modifier ces paramètres, il est ensuite possible de changer les pétitions. Ce status permet de procéder à l'éxécution des pétitions, d'accéder aux réunions des archivistes et de s'occuper des threads du club. 
+ \item [TYRAN] C'est le même TYRAN que celui des clubs, il possède juste un titre sans pouvoirs.
+ \item [Webmaster] Il possède les droits d'administration du site. Ce poste n'étant pas démocratique du tout, il est voué à se transformer quand le club sera plus développé.
+\end{description}
+
+\subsection{Modération}
+\paragraph{}
+Si des messages ou des publications ne respectent pas la tête de la charte, ils peuvent être signalés. Si deux Archivistes affirment le signalement, le message est supprimé et l'utilisateur reçoit un warning. En revanche, si deux archivistes infirment le signalement, alors les pochains signalements seront ignorés et leurs émméteurs prévenus du verdict des Archivistes. Si les archivistes ne sont pas d'accords mais que chaque camps contiens au moins deux pour, on considère que la question n'est pas tranchée pendant deux heures, ensuite on teste si au moins 20\% des oeils penchent d'un coté plutôt que de l'autre en faisant la différence des pourcentages pour et contre pour aboutir à un verdict final. Tans que la différence reste en deça de 20\%, le verdict est suspendu et le message est considéré comme toujours affichable.
+\paragraph{}
+Si un utilisateur accuse un ration de plus de 20\% de messages bannis à partir de 10 messages postés, il ne peut plus rien poster pendant une semaine, en cas de récidive, ce temps passe à deux semaines puis un mois la troisième fois. Au bout de trois fois, il peut faire l'objet d'une censure par pétition si ladite pétition récolte au moins la majorité supérieure des voix et moins de 30\% de voix contre et au moins la majorité simple de participation.
+
+
+\section{Ressources et bibliographie}
+\begin{itemize}
+ \item Richard MONVOISIN - Pour une didactique de l’esprit critique (2007)
+\end{itemize}
+
+
+\end{document}

@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (prelo
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CharteRaccouvis0.2.tex
-(./CharteRaccouvis0.2.tex
+**Annexes.tex
+(./Annexes.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -439,25 +439,24 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
-)
-(./CharteRaccouvis0.2.aux)
-\openout1 = `CharteRaccouvis0.2.aux'.
+) (./Annexes.aux)
+\openout1 = `Annexes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Info: Redefining \degres on input line 25.
-LaTeX Info: Redefining \dots on input line 25.
-LaTeX Info: Redefining \up on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Info: Redefining \degres on input line 15.
+LaTeX Info: Redefining \dots on input line 15.
+LaTeX Info: Redefining \up on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -553,53 +552,58 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 27.
+(Font)              <14.4> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 27.
+(Font)              <7> on input line 17.
 
-Overfull \hbox (96.7178pt too wide) in paragraph at lines 27--27
+Overfull \hbox (96.7178pt too wide) in paragraph at lines 17--17
  [][] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 29.
+(Font)              <12> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 29.
+(Font)              <8> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 29.
+(Font)              <6> on input line 19.
 <cc.jpg, id=1, 275.0275pt x 98.3675pt>
 File: cc.jpg Graphic file (type jpg)
  <use cc.jpg>
-Package pdftex.def Info: cc.jpg used on input line 33.
+Package pdftex.def Info: cc.jpg used on input line 23.
 (pdftex.def)             Requested size: 275.02682pt x 98.36723pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./cc.jpg>] (./CharteRaccou
-vis0.2.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./cc.jpg>] (./Annexes.toc)
 \tf@toc=\write3
-\openout3 = `CharteRaccouvis0.2.toc'.
+\openout3 = `Annexes.toc'.
 
- [2] [3]
-(./CharteRaccouvis0.2.aux) ) 
+ [2] [3] [4]
+Overfull \hbox (4.68651pt too wide) in paragraph at lines 91--92
+[]\T1/cmr/m/n/12 Le nom com-plet n'est né-ces-saire qu'en
+ []
+
+[5] [6] [7] [8] [9] [10] [11] [12] [13] (./Annexes.aux) ) 
 Here is how much of TeX's memory you used:
- 3667 strings out of 493013
- 48415 string characters out of 6139318
- 120058 words of memory out of 5000000
- 7160 multiletter control sequences out of 15000+600000
- 13459 words of font info for 34 fonts, out of 8000000 for 9000
+ 3676 strings out of 493013
+ 48399 string characters out of 6139318
+ 125050 words of memory out of 5000000
+ 7167 multiletter control sequences out of 15000+600000
+ 14910 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,13n,30p,347b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-
-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></
-usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf
--dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
-per/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pf
-b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on CharteRaccouvis0.2.pdf (3 pages, 113628 bytes).
+ 40i,13n,30p,1475b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist
+/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/pu
+blic/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/s
+fbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-
+dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf-dist/fonts/type
+1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb
+></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
+Output written on Annexes.pdf (13 pages, 191552 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 85 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
